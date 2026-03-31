@@ -1,0 +1,7 @@
+Phishing is a common type of cybercrime where attackers try to trick users into revealing sensitive information such as passwords, bank details, or OTPs. This is usually done by sending fake emails, messages, or links that appear to be from trusted sources like banks or popular websites.
+
+A typical phishing attack works step-by-step. First, the attacker creates a fake message that looks legitimate. Then, the victim receives a link and is asked to click on it for urgent reasons, such as verifying an account or claiming a reward. Once the victim clicks the link, they are taken to a fake website that looks real. When the victim enters their login details or OTP, the attacker gains access to their account.
+
+Students and inexperienced users are often targeted because they may not recognize suspicious links or messages. The consequences of phishing can include financial loss, identity theft, and unauthorized access to personal accounts.
+
+Phishing attacks are increasing rapidly, especially with the growth of online banking and digital payments. It is important to stay alert and verify any suspicious communication before sharing personal information online.
